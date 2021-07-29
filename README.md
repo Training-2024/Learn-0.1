@@ -1,7 +1,7 @@
 # Learn 0.1
 ## Git and GitHub
 
-You guys might think why this is named as **Learn 0.1**🧐🧐, the reason we named like that is these are the prerequisites that you should know before starting actial Concepts.
+You guys might think why this is named as **Learn 0.1**🧐🧐, the reason we named like that is these are the prerequisites that you should know before starting actual Concepts.
 Let's start with the concepts.
 
 ### What is Version Control?
@@ -62,6 +62,11 @@ Let's see some terms that we'll use in this training. I know that this is so muc
 -  **README:** A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
 -  **repository:** A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 
-
-
-
+## How are we using Git and GitHub for this activity
+Each task that needs to be completed will be available on repositories in this GitHub page. The task needs to be cloned to your local repository (on your computer). You can read the files, and edit them accordingly to complete each task on time. When the solution is ready, name the file with(**some thing we need to give to identify the person like name..**) and upload them to the repository.
+<br />
+Still wondering if Git is really important??
+![how imp is git](https://1qgi2o12wnth2z9m2g2ix8sg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/what-is-git-1200x848.jpg)
+<br />
+image credit:https://1qgi2o12wnth2z9m2g2ix8sg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/what-is-git-1200x848.jpg
+source: google.
