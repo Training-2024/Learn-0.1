@@ -66,7 +66,7 @@ Let's see some terms that we'll use in this training. I know that this is so muc
 Each task that needs to be completed will be available on repositories in this GitHub page. The task needs to be cloned to your local repository (on your computer). You can read the files, and edit them accordingly to complete each task on time. When the solution is ready, name the file with(**some thing we need to give to identify the person like name..**) and upload them to the repository.
 <br />
 Still wondering if Git is really important??
-![how imp is git](https://1qgi2o12wnth2z9m2g2ix8sg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/what-is-git-1200x848.jpg)
+<img src="(https://1qgi2o12wnth2z9m2g2ix8sg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/what-is-git-1200x848.jpg" width="100" height="100">
 <br />
 image credit:https://1qgi2o12wnth2z9m2g2ix8sg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/what-is-git-1200x848.jpg
 source: google.
