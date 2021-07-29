@@ -18,7 +18,9 @@ Git is software for tracking changes in any set of files, usually used for coord
 Before you start using Git, you have to make it available on your computer. Even if it’s already installed, it’s probably a good idea to update to the latest version. You can either install it as a package or via another installer, or download the source code and compile it yourself.
 
 **Installing on Linux: ** ```$ sudo dnf install git-all```
+
 **Debian-based distribution:** ```$ sudo apt install git-all```
+
 **Installing on macOS:**
 There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. On Mavericks (10.9) or above you can do this simply by trying to run git from the Terminal the very first time.
 ```$ git --version```
