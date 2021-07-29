@@ -41,6 +41,7 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 
 ## What is the difference between Git and GitHub?
 After all, in the world of programming, naming conventions aren’t always intuitive. That’s why it’s worth recognizing the connections and the differences in the similarly named Git and GitHub. Both Git and GitHub give programmers valuable version-control functionality so that they can build ongoing coding projects without being afraid of messing everything up. GitHub just takes things a little bit further than Git, offering more functionality and resources, as well as a place online to store and collaborate on projects. See the below image for a simple understanding on the difference.
+
 ![Gitvs_Github-1c-750x321-1](https://user-images.githubusercontent.com/62557178/127492180-d620a81f-447e-48e7-b3e4-7918be0a6e68.jpg)
 
 
