@@ -17,6 +17,10 @@ Git is software for tracking changes in any set of files, usually used for coord
 ### How to install Git?
 Before you start using Git, you have to make it available on your computer. Even if it’s already installed, it’s probably a good idea to update to the latest version. You can either install it as a package or via another installer, or download the source code and compile it yourself.
 
+**Installing on Windows**
+
+As many of you use Windows OS check out this step by step tutorial https://phoenixnap.com/kb/how-to-install-git-windows
+
 **Installing on Linux:** 
 ```$ sudo dnf install git-all```
 
@@ -32,6 +36,4 @@ If you don’t have it installed already, it will prompt you to install it.
 
 If you want a more up to date version, you can also install it via a binary installer. A macOS Git installer is maintained and available for download at the Git website, at https://git-scm.com/download/mac.
 
-**Installing on Windows**
-_**Download Git for Windows**_
-As many of you use Windows OS check out this step by step tutorial https://phoenixnap.com/kb/how-to-install-git-windows
+
