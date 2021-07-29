@@ -17,7 +17,7 @@ Git is software for tracking changes in any set of files, usually used for coord
 ### How to install Git?
 Before you start using Git, you have to make it available on your computer. Even if it’s already installed, it’s probably a good idea to update to the latest version. You can either install it as a package or via another installer, or download the source code and compile it yourself.
 
-**Installing on Windows**
+**Installing on Windows:**
 
 As many of you use Windows OS check out this step by step tutorial https://phoenixnap.com/kb/how-to-install-git-windows
 
@@ -35,5 +35,13 @@ There are several ways to install Git on a Mac. The easiest is probably to insta
 If you don’t have it installed already, it will prompt you to install it.
 
 If you want a more up to date version, you can also install it via a binary installer. A macOS Git installer is maintained and available for download at the Git website, at https://git-scm.com/download/mac.
+
+## What is GitHub?
+GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+
+## What is the difference between Git and GitHub?
+After all, in the world of programming, naming conventions aren’t always intuitive. That’s why it’s worth recognizing the connections and the differences in the similarly named Git and GitHub. Both Git and GitHub give programmers valuable version-control functionality so that they can build ongoing coding projects without being afraid of messing everything up. GitHub just takes things a little bit further than Git, offering more functionality and resources, as well as a place online to store and collaborate on projects. See the below image for a simple understanding on the difference.
+![Gitvs_Github-1c-750x321-1](https://user-images.githubusercontent.com/62557178/127492180-d620a81f-447e-48e7-b3e4-7918be0a6e68.jpg)
+
 
 
